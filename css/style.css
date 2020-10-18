@@ -1,0 +1,25 @@
+*{
+    margin: 0;
+    padding: 0;
+    text-align: center;
+    background-color: rgb(168, 206, 255);
+    outline: none;
+}
+
+#HL{
+    margin-top: 1em;
+}
+
+#PW{
+    font-size: 1.5em;
+    padding: 1em 2.5em 1em 2.5em;
+    border-radius: 0.75em;
+}
+
+#CheckPWButton{
+    font-size: 2.5em;
+    padding: 2em 2.5em 2em 2.5em;
+    border-radius: 0.75em;
+    cursor: pointer;
+}
+
